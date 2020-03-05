@@ -1,10 +1,22 @@
 {
   "title": "Create a script to play the scenario ....",
-  "description": "We are diving deep into it...",
+  "description": "FX Automatically Generates Security Tests for Your APIs Based on Your OpenAPI Spec..",
   "difficulty": "Beginner",
   "time": "1min",
   "details": {
     "steps": [
+      {
+        "title": "Step 1: Create a Playground tenant",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2: Enter the API Environment URL",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3: Description",
+        "text": "step3.md"
+      },
       {
         "title": "Step 1: Use the sample Netbanking API http://104.42.41.159/swagger-ui.html",
         "text": "step1.md"
