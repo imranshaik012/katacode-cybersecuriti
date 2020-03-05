@@ -6,31 +6,31 @@
   "details": {
     "steps": [
       {
-        "title": "Step1: Use the sample Netbanking API http://104.42.41.159/swagger-ui.html",
+        "title": "Step 1: Use the sample Netbanking API http://104.42.41.159/swagger-ui.html",
         "text": "step1.md"
       },
       {
-        "title": "Step2: http://138.91.64.62:8080/v2/api-docs",
+        "title": "Step 2: Enter the API Environment URL",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3: Description",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Step 4: Total Assessments written by the Bot.",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Step 5: Result",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Step 6: Exploitable endpoints:",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "Step 7: End of Scan",
         "text": "step7.md"
       }
     ],

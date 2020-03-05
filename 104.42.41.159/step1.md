@@ -1,3 +1,2 @@
-The first task is to identify the name of the Docker Image which is configured to run Redis. With Docker, all containers are started based on a Docker Image. These images contain everything required to launch the process; the host doesn't require any configuration or dependencies.
-
-The First you have register an Open API 
+FX Automatically Generates Security Tests for Your APIs Based on Your OpenAPI Spec
+Provide the URL or upload your OpenAPI Spec (Swagger file). The platform will automatically generate tests spanning critical categories like Unsecured Endpoints, RBAC, ABAC, SQL Injection, DDoS, and many others.
