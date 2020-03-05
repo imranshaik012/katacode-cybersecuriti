@@ -1,16 +1,16 @@
 {
-  "title": "Scanning your open API ....",
+  "title": "Create a script to play the scenario ....",
   "description": "We are diving deep into it...",
   "difficulty": "Beginner",
   "time": "1min",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step1: Use the sample Netbanking API http://104.42.41.159/swagger-ui.html",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step2: http://138.91.64.62:8080/v2/api-docs",
         "text": "step2.md"
       },
       {
