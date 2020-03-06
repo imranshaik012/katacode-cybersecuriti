@@ -8,42 +8,6 @@
       {
         "title": "Step 1: Create a Playground tenant",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2: Add user to the tenant 'play@fxlabs.io/play12' with ROLE USER",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3: Register  API",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4: Use the sample Netbanking API http://104.42.41.159/swagger-ui.html",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 5: Enter the API Environment URL",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 6: Description",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 7: Total Assessments written by the Bot.",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 8: Result",
-        "text": "step5.md"
-      },
-      {
-        "title": "Step 9: Exploitable endpoints:",
-        "text": "step6.md"
-      },
-      {
-        "title": "Step 10: End of Scan",
-        "text": "step7.md"
       }
     ],
     "intro": {
@@ -54,7 +18,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-editor"
+    "uilayout": "Terminal"
   },
   "backend": {
     "imageid": "kotlin"
