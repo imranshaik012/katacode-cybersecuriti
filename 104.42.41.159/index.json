@@ -2,7 +2,7 @@
   "title": "Create a script to play the scenario ....",
   "description": "FX Automatically Generates Security Tests for Your APIs Based on Your OpenAPI Spec..",
   "difficulty": "Beginner",
-  "time": "1min",
+  "time": "2min",
   "details": {
     "steps": [
       {
