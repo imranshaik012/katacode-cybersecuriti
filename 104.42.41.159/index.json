@@ -22,7 +22,7 @@
   },
   "files": [],
   "environment": {
-      "uilayout": "Terminal"
+      "uilayout": "inline-terminal-1"
   },
   "backend": {
       "imageid": "ubuntu"
