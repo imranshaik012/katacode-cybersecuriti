@@ -1,7 +1,7 @@
 {
   "noindex": true,
-  "title": "Fx Labs24",
-  "description": "How to work with API Sec",
+  "title": "APISec™",
+  "description": "How to work with APISec™",
   "details": {
       "intro": {
           "courseData": "background.sh",
@@ -22,7 +22,7 @@
   },
   "files": [],
   "environment": {
-      "uilayout": "terminal"
+      "uilayout": "Terminal"
   },
   "backend": {
       "imageid": "ubuntu"
