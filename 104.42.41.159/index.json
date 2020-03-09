@@ -8,6 +8,12 @@
           "code": "foreground.sh",
           "text": "intro.md"
       },
+      "steps": [
+        {
+            "title": "Step 1",
+            "text": "step1.md"
+        }
+    ],
       "assets": {
           "host01": [
               {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
