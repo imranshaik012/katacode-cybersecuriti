@@ -2,10 +2,11 @@
 
 show_progress()
 {
-  echo -n "Starting"
-  echo "we are starting apisectm"
+  echo -n "Hello.."
+  echo "we are starting APISec™"
   echo "http://104.42.41.159/swagger-ui.html "
-  echo "we are parsing OpenAPI Spec"
+  sleep 3
+  echo "We are parsing OpenAPI Spec"
   sleep 5
   echo "Activating Broken Auth category"
   sleep 3
@@ -29,7 +30,7 @@ show_progress()
   echo "PUT:http://138.91.64.62:8080/api/v1/primary-transaction"
   sleep 1
   echo "End of Scan"
-  sleep 30
+  sleep 2
 
   # local -r pid="${1}"
   # local -r delay='0.75'
