@@ -1,27 +1,30 @@
 {
-  "title": "Create a script to play the scenario ....",
-  "description": "FX Automatically Generates Security Tests for Your APIs Based on Your OpenAPI Spec..",
-  "difficulty": "Beginner",
-  "time": "2min",
+  "noindex": true,
+  "title": "Fx Labs16",
+  "description": "How to work with API Sec",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1: Create a Playground tenant",
-        "text": "step1.md"
+      "intro": {
+          "courseData": "background.sh",
+          "code": "foreground.sh",
+          "text": "intro.md"
+      },
+      "steps": [
+          {
+              "title": "Step 1",
+              "text": "step1.md"
+          }
+      ],
+      "assets": {
+          "host01": [
+              {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+          ]
       }
-    ],
-    "intro": {
-      "text": "intro.md",
-      "courseData": "hello.sh"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
   },
+  "files": [],
   "environment": {
-    "uilayout": "Terminal"
+      "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kotlin"
+      "imageid": "ubuntu"
   }
 }
