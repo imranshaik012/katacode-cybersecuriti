@@ -1,5 +1,10 @@
 echo "Hello..."  
- echo "we are starting apisectm"
+#!/bin/bash
+
+show_progress()
+{
+  echo -n "Starting"
+  echo "we are starting apisectm"
   echo "http://104.42.41.159/swagger-ui.html "
   echo "we are parsing OpenAPI Spec"
   sleep 5
@@ -16,3 +21,8 @@ echo "Hello..."
   echo "Exploitable endpoints:"
   echo "GET:http://138.91.64.62:8080/api/v1/primary-transaction/nMBRqCPE"
   echo "End of Scan"
+  sleep 20
+
+}
+
+show_progress
